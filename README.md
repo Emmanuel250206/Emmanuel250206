@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/Emmanuel250206?label=Seguidores&style=social" alt="GitHub Followers" />
   </a>
   <img src="https://img.shields.io/badge/ITSX-Ing.%20Sistemas%20Computacionales-0284c7?style=flat-square" alt="ITSX" />
-  <img src="https://img.shields.io/badge/Cambridge%20English-Certificaci%C3%B3n%20B1-10b981?style=flat-square" alt="Cambridge" />
+  <img src="https://img.shields.io/badge/Cambridge%20English-Certificaci%C3%B3n%20-10b981?style=flat-square" alt="Cambridge" />
   <a href="mailto:hdzrenteria@gmail.com">
     <img src="https://img.shields.io/badge/Contacto-hdzrenteria%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
